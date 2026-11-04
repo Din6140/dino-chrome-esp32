@@ -58,4 +58,4 @@ o Dinossauro do Chrome, acionando a barra de espaço quando detecta um obstácul
 ## Resultados
 
 - Pontuação máxima alcançada: [valor real, ex.: 400 pontos]
-- Veja os testes realizados em [TESTES.md](TESTES.md)
+- Veja os testes realizados em [testes.md](testes.md)
